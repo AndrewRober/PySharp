@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33617.297
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PySharp", "PySharp\PySharp.csproj", "{286FBECE-B93D-41BE-B8CE-95B880443825}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{286FBECE-B93D-41BE-B8CE-95B880443825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{286FBECE-B93D-41BE-B8CE-95B880443825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{286FBECE-B93D-41BE-B8CE-95B880443825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{286FBECE-B93D-41BE-B8CE-95B880443825}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CF8C78C-20F6-4EFE-B086-E6960D9E6E68}
+	EndGlobalSection
+EndGlobal
