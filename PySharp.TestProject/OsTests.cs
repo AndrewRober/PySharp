@@ -1,7 +1,7 @@
 using PySharp;
 
 [TestFixture]
-public class os_Tests
+public class OsTests
 {
     private const string TestDirectory = "test_directory";
     private const string TestFile = "test_file.txt";
